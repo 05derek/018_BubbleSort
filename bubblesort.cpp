@@ -1,8 +1,6 @@
-
-    {
-        for (int j = 0; j <= n - 1 - pass; j++)
-        {
+if (arr[j] > arr[j+1])//step 3
             
+    
 
             
     
